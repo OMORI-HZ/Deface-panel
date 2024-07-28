@@ -3,7 +3,8 @@ my own deface panel
 
 
 preview:
-![image](https://github.com/user-attachments/assets/9ff87031-5471-4a31-8668-b8a7ee889e2a)
+![image](https://github.com/user-attachments/assets/f0b0c73f-deb3-4724-871a-75272faf7185)
+
 
 
 
